@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "build": "postcss css/tailwind.css -o style.css"
+    "dev": "postcss css/tailwind.css -o styles.css --watch"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +13,9 @@
     "autoprefixer": "^10.2.5",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.1.2"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "cssnano": "^5.0.2"
   }
 }
