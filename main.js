@@ -7,7 +7,7 @@ const slidesLength = slideRight.querySelectorAll("div").length;
 
 let activeSlideIndex = 0;
 
-slideLeft.style.top = `-${(slidesLength - 1) * 100}vh`;
+slideLeft.style.top = `-${(slidesLength - 1) * 60}vh`;
 
 const changeSlide = (direction) => {
   const sliderHeight = sliderContainer.clientHeight;
