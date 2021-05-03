@@ -31259,6 +31259,70 @@ video {
   mix-blend-mode: luminosity;
 }
 
+.hover\:mix-blend-normal:hover {
+  mix-blend-mode: normal;
+}
+
+.hover\:mix-blend-multiply:hover {
+  mix-blend-mode: multiply;
+}
+
+.hover\:mix-blend-screen:hover {
+  mix-blend-mode: screen;
+}
+
+.hover\:mix-blend-overlay:hover {
+  mix-blend-mode: overlay;
+}
+
+.hover\:mix-blend-darken:hover {
+  mix-blend-mode: darken;
+}
+
+.hover\:mix-blend-lighten:hover {
+  mix-blend-mode: lighten;
+}
+
+.hover\:mix-blend-color-dodge:hover {
+  mix-blend-mode: color-dodge;
+}
+
+.hover\:mix-blend-color-burn:hover {
+  mix-blend-mode: color-burn;
+}
+
+.hover\:mix-blend-hard-light:hover {
+  mix-blend-mode: hard-light;
+}
+
+.hover\:mix-blend-soft-light:hover {
+  mix-blend-mode: soft-light;
+}
+
+.hover\:mix-blend-difference:hover {
+  mix-blend-mode: difference;
+}
+
+.hover\:mix-blend-exclusion:hover {
+  mix-blend-mode: exclusion;
+}
+
+.hover\:mix-blend-hue:hover {
+  mix-blend-mode: hue;
+}
+
+.hover\:mix-blend-saturation:hover {
+  mix-blend-mode: saturation;
+}
+
+.hover\:mix-blend-color:hover {
+  mix-blend-mode: color;
+}
+
+.hover\:mix-blend-luminosity:hover {
+  mix-blend-mode: luminosity;
+}
+
 .bg-blend-normal {
   background-blend-mode: normal;
 }
@@ -62461,6 +62525,70 @@ video {
     mix-blend-mode: luminosity;
   }
 
+  .sm\:hover\:mix-blend-normal:hover {
+    mix-blend-mode: normal;
+  }
+
+  .sm\:hover\:mix-blend-multiply:hover {
+    mix-blend-mode: multiply;
+  }
+
+  .sm\:hover\:mix-blend-screen:hover {
+    mix-blend-mode: screen;
+  }
+
+  .sm\:hover\:mix-blend-overlay:hover {
+    mix-blend-mode: overlay;
+  }
+
+  .sm\:hover\:mix-blend-darken:hover {
+    mix-blend-mode: darken;
+  }
+
+  .sm\:hover\:mix-blend-lighten:hover {
+    mix-blend-mode: lighten;
+  }
+
+  .sm\:hover\:mix-blend-color-dodge:hover {
+    mix-blend-mode: color-dodge;
+  }
+
+  .sm\:hover\:mix-blend-color-burn:hover {
+    mix-blend-mode: color-burn;
+  }
+
+  .sm\:hover\:mix-blend-hard-light:hover {
+    mix-blend-mode: hard-light;
+  }
+
+  .sm\:hover\:mix-blend-soft-light:hover {
+    mix-blend-mode: soft-light;
+  }
+
+  .sm\:hover\:mix-blend-difference:hover {
+    mix-blend-mode: difference;
+  }
+
+  .sm\:hover\:mix-blend-exclusion:hover {
+    mix-blend-mode: exclusion;
+  }
+
+  .sm\:hover\:mix-blend-hue:hover {
+    mix-blend-mode: hue;
+  }
+
+  .sm\:hover\:mix-blend-saturation:hover {
+    mix-blend-mode: saturation;
+  }
+
+  .sm\:hover\:mix-blend-color:hover {
+    mix-blend-mode: color;
+  }
+
+  .sm\:hover\:mix-blend-luminosity:hover {
+    mix-blend-mode: luminosity;
+  }
+
   .sm\:bg-blend-normal {
     background-blend-mode: normal;
   }
@@ -93569,6 +93697,70 @@ video {
   }
 
   .md\:mix-blend-luminosity {
+    mix-blend-mode: luminosity;
+  }
+
+  .md\:hover\:mix-blend-normal:hover {
+    mix-blend-mode: normal;
+  }
+
+  .md\:hover\:mix-blend-multiply:hover {
+    mix-blend-mode: multiply;
+  }
+
+  .md\:hover\:mix-blend-screen:hover {
+    mix-blend-mode: screen;
+  }
+
+  .md\:hover\:mix-blend-overlay:hover {
+    mix-blend-mode: overlay;
+  }
+
+  .md\:hover\:mix-blend-darken:hover {
+    mix-blend-mode: darken;
+  }
+
+  .md\:hover\:mix-blend-lighten:hover {
+    mix-blend-mode: lighten;
+  }
+
+  .md\:hover\:mix-blend-color-dodge:hover {
+    mix-blend-mode: color-dodge;
+  }
+
+  .md\:hover\:mix-blend-color-burn:hover {
+    mix-blend-mode: color-burn;
+  }
+
+  .md\:hover\:mix-blend-hard-light:hover {
+    mix-blend-mode: hard-light;
+  }
+
+  .md\:hover\:mix-blend-soft-light:hover {
+    mix-blend-mode: soft-light;
+  }
+
+  .md\:hover\:mix-blend-difference:hover {
+    mix-blend-mode: difference;
+  }
+
+  .md\:hover\:mix-blend-exclusion:hover {
+    mix-blend-mode: exclusion;
+  }
+
+  .md\:hover\:mix-blend-hue:hover {
+    mix-blend-mode: hue;
+  }
+
+  .md\:hover\:mix-blend-saturation:hover {
+    mix-blend-mode: saturation;
+  }
+
+  .md\:hover\:mix-blend-color:hover {
+    mix-blend-mode: color;
+  }
+
+  .md\:hover\:mix-blend-luminosity:hover {
     mix-blend-mode: luminosity;
   }
 
@@ -124683,6 +124875,70 @@ video {
     mix-blend-mode: luminosity;
   }
 
+  .lg\:hover\:mix-blend-normal:hover {
+    mix-blend-mode: normal;
+  }
+
+  .lg\:hover\:mix-blend-multiply:hover {
+    mix-blend-mode: multiply;
+  }
+
+  .lg\:hover\:mix-blend-screen:hover {
+    mix-blend-mode: screen;
+  }
+
+  .lg\:hover\:mix-blend-overlay:hover {
+    mix-blend-mode: overlay;
+  }
+
+  .lg\:hover\:mix-blend-darken:hover {
+    mix-blend-mode: darken;
+  }
+
+  .lg\:hover\:mix-blend-lighten:hover {
+    mix-blend-mode: lighten;
+  }
+
+  .lg\:hover\:mix-blend-color-dodge:hover {
+    mix-blend-mode: color-dodge;
+  }
+
+  .lg\:hover\:mix-blend-color-burn:hover {
+    mix-blend-mode: color-burn;
+  }
+
+  .lg\:hover\:mix-blend-hard-light:hover {
+    mix-blend-mode: hard-light;
+  }
+
+  .lg\:hover\:mix-blend-soft-light:hover {
+    mix-blend-mode: soft-light;
+  }
+
+  .lg\:hover\:mix-blend-difference:hover {
+    mix-blend-mode: difference;
+  }
+
+  .lg\:hover\:mix-blend-exclusion:hover {
+    mix-blend-mode: exclusion;
+  }
+
+  .lg\:hover\:mix-blend-hue:hover {
+    mix-blend-mode: hue;
+  }
+
+  .lg\:hover\:mix-blend-saturation:hover {
+    mix-blend-mode: saturation;
+  }
+
+  .lg\:hover\:mix-blend-color:hover {
+    mix-blend-mode: color;
+  }
+
+  .lg\:hover\:mix-blend-luminosity:hover {
+    mix-blend-mode: luminosity;
+  }
+
   .lg\:bg-blend-normal {
     background-blend-mode: normal;
   }
@@ -155794,6 +156050,70 @@ video {
     mix-blend-mode: luminosity;
   }
 
+  .xl\:hover\:mix-blend-normal:hover {
+    mix-blend-mode: normal;
+  }
+
+  .xl\:hover\:mix-blend-multiply:hover {
+    mix-blend-mode: multiply;
+  }
+
+  .xl\:hover\:mix-blend-screen:hover {
+    mix-blend-mode: screen;
+  }
+
+  .xl\:hover\:mix-blend-overlay:hover {
+    mix-blend-mode: overlay;
+  }
+
+  .xl\:hover\:mix-blend-darken:hover {
+    mix-blend-mode: darken;
+  }
+
+  .xl\:hover\:mix-blend-lighten:hover {
+    mix-blend-mode: lighten;
+  }
+
+  .xl\:hover\:mix-blend-color-dodge:hover {
+    mix-blend-mode: color-dodge;
+  }
+
+  .xl\:hover\:mix-blend-color-burn:hover {
+    mix-blend-mode: color-burn;
+  }
+
+  .xl\:hover\:mix-blend-hard-light:hover {
+    mix-blend-mode: hard-light;
+  }
+
+  .xl\:hover\:mix-blend-soft-light:hover {
+    mix-blend-mode: soft-light;
+  }
+
+  .xl\:hover\:mix-blend-difference:hover {
+    mix-blend-mode: difference;
+  }
+
+  .xl\:hover\:mix-blend-exclusion:hover {
+    mix-blend-mode: exclusion;
+  }
+
+  .xl\:hover\:mix-blend-hue:hover {
+    mix-blend-mode: hue;
+  }
+
+  .xl\:hover\:mix-blend-saturation:hover {
+    mix-blend-mode: saturation;
+  }
+
+  .xl\:hover\:mix-blend-color:hover {
+    mix-blend-mode: color;
+  }
+
+  .xl\:hover\:mix-blend-luminosity:hover {
+    mix-blend-mode: luminosity;
+  }
+
   .xl\:bg-blend-normal {
     background-blend-mode: normal;
   }
@@ -186902,6 +187222,70 @@ video {
   }
 
   .\32xl\:mix-blend-luminosity {
+    mix-blend-mode: luminosity;
+  }
+
+  .\32xl\:hover\:mix-blend-normal:hover {
+    mix-blend-mode: normal;
+  }
+
+  .\32xl\:hover\:mix-blend-multiply:hover {
+    mix-blend-mode: multiply;
+  }
+
+  .\32xl\:hover\:mix-blend-screen:hover {
+    mix-blend-mode: screen;
+  }
+
+  .\32xl\:hover\:mix-blend-overlay:hover {
+    mix-blend-mode: overlay;
+  }
+
+  .\32xl\:hover\:mix-blend-darken:hover {
+    mix-blend-mode: darken;
+  }
+
+  .\32xl\:hover\:mix-blend-lighten:hover {
+    mix-blend-mode: lighten;
+  }
+
+  .\32xl\:hover\:mix-blend-color-dodge:hover {
+    mix-blend-mode: color-dodge;
+  }
+
+  .\32xl\:hover\:mix-blend-color-burn:hover {
+    mix-blend-mode: color-burn;
+  }
+
+  .\32xl\:hover\:mix-blend-hard-light:hover {
+    mix-blend-mode: hard-light;
+  }
+
+  .\32xl\:hover\:mix-blend-soft-light:hover {
+    mix-blend-mode: soft-light;
+  }
+
+  .\32xl\:hover\:mix-blend-difference:hover {
+    mix-blend-mode: difference;
+  }
+
+  .\32xl\:hover\:mix-blend-exclusion:hover {
+    mix-blend-mode: exclusion;
+  }
+
+  .\32xl\:hover\:mix-blend-hue:hover {
+    mix-blend-mode: hue;
+  }
+
+  .\32xl\:hover\:mix-blend-saturation:hover {
+    mix-blend-mode: saturation;
+  }
+
+  .\32xl\:hover\:mix-blend-color:hover {
+    mix-blend-mode: color;
+  }
+
+  .\32xl\:hover\:mix-blend-luminosity:hover {
     mix-blend-mode: luminosity;
   }
 
